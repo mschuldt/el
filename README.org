@@ -1,0 +1,8 @@
+
+elisp - an interpreted, interactive, programming language
+
+install:
+: make install
+
+Execute elisp script:
+: el script.el
